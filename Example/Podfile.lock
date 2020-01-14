@@ -1,0 +1,31 @@
+PODS:
+  - DWCocoapods-bin (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - DWCocoapods-bin (from `../`)
+  - FBSnapshotTestCase
+  - Kiwi
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+    - Kiwi
+
+EXTERNAL SOURCES:
+  DWCocoapods-bin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DWCocoapods-bin: 0b852615a5439c197d157140f4b211d2c046dd9f
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: 89065b07ea75d4017db72849b7c05fffc0a3d665
+
+COCOAPODS: 1.8.4

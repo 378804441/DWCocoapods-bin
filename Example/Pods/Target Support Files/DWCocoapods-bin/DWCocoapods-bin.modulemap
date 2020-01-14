@@ -1,0 +1,6 @@
+framework module DWCocoapods_bin {
+  umbrella header "DWCocoapods-bin-umbrella.h"
+
+  export *
+  module * { export * }
+}

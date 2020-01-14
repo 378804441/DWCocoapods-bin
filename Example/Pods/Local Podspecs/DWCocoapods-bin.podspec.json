@@ -1,0 +1,22 @@
+{
+  "name": "DWCocoapods-bin",
+  "version": "0.1.0",
+  "summary": "A short description of DWCocoapods-bin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/丁巍/DWCocoapods-bin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "丁巍": "378804441@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/丁巍/DWCocoapods-bin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DWCocoapods-bin/Classes/**/*"
+}
