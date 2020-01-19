@@ -69,6 +69,7 @@
 		474964AA92753899777639AB723366B4 /* KWMessagePattern.m in Sources */ = {isa = PBXBuildFile; fileRef = AA9C2EB907EF949A1B252DA1A6FBE87E /* KWMessagePattern.m */; };
 		4B64055584AB1F88524BD84012CFD965 /* NSInvocation+KiwiAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D8AC8AE259DBCCDBB4C474A6801463 /* NSInvocation+KiwiAdditions.m */; };
 		4BD42FEB504CFF4EDCACAA6A90F2296B /* NSProxy+KiwiVerifierAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E129ED522076241A5A1084DA9E265C /* NSProxy+KiwiVerifierAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4D23D9027A35DE4DF611E678 /* Pods_Pods_DWCocoapods_bin_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54035074F6BED0F87AAE6400 /* Pods_Pods_DWCocoapods_bin_Tests.framework */; };
 		4D4DAA92870FEEBDB9DA3E047C0DD239 /* KWMatcherFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A717A4CF3910591D0E2CCB15CE26E79 /* KWMatcherFactory.m */; };
 		4D6375C59CBCA243A9826C6773FCDC82 /* KWBeBetweenMatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 90386839174A278D90A478CCB2259933 /* KWBeBetweenMatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		50421FA8B8D6FC0784354E6A21DD040C /* KWEqualMatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A08374BF7455938F755FCC431FC3B9E /* KWEqualMatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -87,6 +88,7 @@
 		634278532B85AB8514393C79C0F332B6 /* KWSymbolicator.m in Sources */ = {isa = PBXBuildFile; fileRef = EE163E2B62465541714877C7392DE4AC /* KWSymbolicator.m */; };
 		634876E37E67D3C424AD37CE4C7F516D /* KWVerifying.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FA33FED0A370B9666BD8D3311727E39 /* KWVerifying.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		63EA00AA88B1C1E1522DE59D30EF3F88 /* KWAfterAllNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 54C5168705C56B8E2F44C9A8C13460F6 /* KWAfterAllNode.m */; };
+		642E945BDE4F7619C005BE65 /* Pods_FBSnapshotTestCase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 82CD7C50650291A4874B2677 /* Pods_FBSnapshotTestCase.framework */; };
 		6470B1951B36628BD20835DC70A28DEF /* KWReceiveMatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 41E81686C7AA0D1531B16C975C9E0592 /* KWReceiveMatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		64BD03CF1DA9F58367DB782BC0FCDDAA /* KWBeKindOfClassMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 896996909974F7F743D03BA734F184E9 /* KWBeKindOfClassMatcher.m */; };
 		64D229C3BC5DD74CE975E2F18041D42B /* KWConformToProtocolMatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = AC1291A580633811D4A8B70B19581DF5 /* KWConformToProtocolMatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -114,9 +116,11 @@
 		799257E82809153DBE82AF57853D8F05 /* KWWorkarounds.h in Headers */ = {isa = PBXBuildFile; fileRef = B656D420615385E6BC1922A1C5A94107 /* KWWorkarounds.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7993296EA10A8124D949B0185943CC0C /* KWSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = E0BD916776B196F31437EE0A775BBE81 /* KWSpec.m */; };
 		7AD683BC36504E7DD2CD6B87653035C1 /* KWBlockRaiseMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = D654DC1E475934D5F5B3B8CB471F0524 /* KWBlockRaiseMatcher.m */; };
+		7B6B09CD24317C2E5AF84766 /* Pods_DWCocoapods_bin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 968EED9EE615AB82D5BB12FF /* Pods_DWCocoapods_bin.framework */; };
 		7C408E3B1AD3550BE5779639D56811F8 /* DWCocoapods-bin-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 13E28CE0F00F1FCA08CC8F09D68C3A95 /* DWCocoapods-bin-dummy.m */; };
 		7C6E533F74BFE85EE532BAFF2C49771E /* KWAny.h in Headers */ = {isa = PBXBuildFile; fileRef = 3DEAD0FAF4CCBB2816B971A485F42199 /* KWAny.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7EBAFD889907C5F0B9327119564AE205 /* KWBeSubclassOfClassMatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 775C3FC1CFF842DE6B4B03AD6CB61601 /* KWBeSubclassOfClassMatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7F958453B9F47D5F4A9A8C7D /* Pods_Kiwi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 958E00B527C9B3FDFC779988 /* Pods_Kiwi.framework */; };
 		8287FC563E1817CAD9ABC02A25E55280 /* KWMatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 8574512B51903F3E1F20450885D6468B /* KWMatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5246595DB08521A2B86188BD97D54437 /* FBSnapshotTestController.m */; };
 		8A257B2F83D8881164C8B479398CC720 /* KWExampleDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 69A24AC678F1785191B3700651071EA0 /* KWExampleDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -167,6 +171,7 @@
 		B6C52EE7C38E5C22B724F70B5A11E060 /* KWFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D0908F9B04FEA2041E6791C1A6A2D39 /* KWFormatter.m */; };
 		B73248255BD327AB8883693C5570D70D /* KWExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 7DEF19A0377D09317C0F6F655D01A493 /* KWExample.m */; };
 		B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 26C395BC4A83BEE2017EE1AC0E3F2531 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		B807196913AC6495C2519785 /* Pods_Pods_DWCocoapods_bin_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBD01C73943AD4C7DFC102DF /* Pods_Pods_DWCocoapods_bin_Example.framework */; };
 		B9161BFE6F0299FDF02F097ED8EC904E /* KWInequalityMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC34EE92D4853AE203B774207C45784 /* KWInequalityMatcher.m */; };
 		BB035E1FE93185F9259EF1DD9CC16F8A /* KWBeTrueMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D4129558DDE2F2A982239C3B6E4FDE7 /* KWBeTrueMatcher.m */; };
 		BC947B8BE47D3AD0B2D25F8A779E73C2 /* KWUserDefinedMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 450112D6D6521E8A0E1A15B91C0A3C8A /* KWUserDefinedMatcher.m */; };
@@ -310,6 +315,7 @@
 		3D0908F9B04FEA2041E6791C1A6A2D39 /* KWFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWFormatter.m; path = Classes/Core/KWFormatter.m; sourceTree = "<group>"; };
 		3DEAD0FAF4CCBB2816B971A485F42199 /* KWAny.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWAny.h; path = Classes/Core/KWAny.h; sourceTree = "<group>"; };
 		40BCCA69FCEC08C748A1AB0932012A1C /* KWExample.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWExample.h; path = Classes/Core/KWExample.h; sourceTree = "<group>"; };
+		41801D62CE2A3D3B770FECF4 /* Pods-DWCocoapods-bin.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DWCocoapods-bin.release.xcconfig"; path = "Pods/Target Support Files/Pods-DWCocoapods-bin/Pods-DWCocoapods-bin.release.xcconfig"; sourceTree = "<group>"; };
 		418A47F08BDE450EB690E123D1127937 /* KWItNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWItNode.h; path = Classes/Nodes/KWItNode.h; sourceTree = "<group>"; };
 		41E81686C7AA0D1531B16C975C9E0592 /* KWReceiveMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWReceiveMatcher.h; path = Classes/Matchers/KWReceiveMatcher.h; sourceTree = "<group>"; };
 		4390C948054CEF89ADD9E039EF96B06C /* Kiwi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Kiwi.h; path = Classes/Core/Kiwi.h; sourceTree = "<group>"; };
@@ -328,6 +334,7 @@
 		5246595DB08521A2B86188BD97D54437 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
 		52AB14D58CF37577E935B96445C6BC05 /* KWFutureObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWFutureObject.m; path = Classes/Core/KWFutureObject.m; sourceTree = "<group>"; };
 		53E52B44E39E1CC11B9D57752FB49DF6 /* KWContextNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWContextNode.m; path = Classes/Nodes/KWContextNode.m; sourceTree = "<group>"; };
+		54035074F6BED0F87AAE6400 /* Pods_Pods_DWCocoapods_bin_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pods_DWCocoapods_bin_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		54C5168705C56B8E2F44C9A8C13460F6 /* KWAfterAllNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWAfterAllNode.m; path = Classes/Nodes/KWAfterAllNode.m; sourceTree = "<group>"; };
 		559DC53E8F73CA3EAF2F50391E6CA09C /* KWDeviceInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWDeviceInfo.h; path = Classes/Core/KWDeviceInfo.h; sourceTree = "<group>"; };
 		562EF3D68F0479F73D9DF53A02309F95 /* KWCallSite.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWCallSite.h; path = Classes/Core/KWCallSite.h; sourceTree = "<group>"; };
@@ -336,6 +343,7 @@
 		58F2A539A10888C0225A488ED05C0A67 /* KWBeEmptyMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWBeEmptyMatcher.m; path = Classes/Matchers/KWBeEmptyMatcher.m; sourceTree = "<group>"; };
 		599EFB453CF537225D9090E58065AF5F /* KWBeZeroMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWBeZeroMatcher.m; path = Classes/Matchers/KWBeZeroMatcher.m; sourceTree = "<group>"; };
 		59B90D0FF09568CD8DF89DF6DC036E8F /* NSInvocation+OCMAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSInvocation+OCMAdditions.m"; path = "Classes/Core/NSInvocation+OCMAdditions.m"; sourceTree = "<group>"; };
+		59F190BE0D06E4D01DB3FF3E /* Pods-FBSnapshotTestCase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FBSnapshotTestCase.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FBSnapshotTestCase/Pods-FBSnapshotTestCase.debug.xcconfig"; sourceTree = "<group>"; };
 		5A169BB5CE15FD237861E93250C088B9 /* KWFailure.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWFailure.h; path = Classes/Core/KWFailure.h; sourceTree = "<group>"; };
 		5A717A4CF3910591D0E2CCB15CE26E79 /* KWMatcherFactory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWMatcherFactory.m; path = Classes/Core/KWMatcherFactory.m; sourceTree = "<group>"; };
 		5B06F21A488E6B77D7861B563B85930D /* KiwiBlockMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KiwiBlockMacros.h; path = Classes/Core/KiwiBlockMacros.h; sourceTree = "<group>"; };
@@ -356,6 +364,7 @@
 		6782D257CD2BD6C3BE39855B88BD092F /* KWExpectationType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWExpectationType.h; path = Classes/Core/KWExpectationType.h; sourceTree = "<group>"; };
 		67E5BA214AD01EDEEAEFA86CE6A14DC9 /* KWProbePoller.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWProbePoller.m; path = Classes/Core/KWProbePoller.m; sourceTree = "<group>"; };
 		680DD6CECA6BF6863A2FF1FBD3A632D7 /* KWContainStringMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWContainStringMatcher.m; path = Classes/Matchers/KWContainStringMatcher.m; sourceTree = "<group>"; };
+		6887E8790E8D8A4A2BBEA644 /* Pods-DWCocoapods-bin.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DWCocoapods-bin.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DWCocoapods-bin/Pods-DWCocoapods-bin.debug.xcconfig"; sourceTree = "<group>"; };
 		68C925690A8AA44575DFB9F387D554A5 /* KWLetNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWLetNode.m; path = Classes/Nodes/KWLetNode.m; sourceTree = "<group>"; };
 		68EEDBF14E47F7CC903635776E3DD798 /* Pods-DWCocoapods-bin_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DWCocoapods-bin_Example-dummy.m"; sourceTree = "<group>"; };
 		69097CC1870065AA8DD50BA4EF54ABFC /* KWMatchers.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWMatchers.m; path = Classes/Core/KWMatchers.m; sourceTree = "<group>"; };
@@ -392,9 +401,11 @@
 		7FD7C6B772FD80097F16836CD7148404 /* KWBeforeAllNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWBeforeAllNode.m; path = Classes/Nodes/KWBeforeAllNode.m; sourceTree = "<group>"; };
 		81F86FEAD531A3DEED0C4A6151C8E89A /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		81F9559DE8B3F0F541D286AE0FA53E13 /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
+		82CD7C50650291A4874B2677 /* Pods_FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		849A202A45117FD5AEFE397EA1E6E6DA /* KWSharedExampleRegistry.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWSharedExampleRegistry.h; path = "Classes/Shared Examples/KWSharedExampleRegistry.h"; sourceTree = "<group>"; };
 		8574512B51903F3E1F20450885D6468B /* KWMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWMatcher.h; path = Classes/Core/KWMatcher.h; sourceTree = "<group>"; };
 		87AD663FCC9BBABC337CD2D1D38CE1B5 /* KWExampleSuite.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWExampleSuite.m; path = Classes/Core/KWExampleSuite.m; sourceTree = "<group>"; };
+		88B7C6AFC7749236EC1C3230 /* Pods-Pods-DWCocoapods-bin_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pods-DWCocoapods-bin_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Pods-DWCocoapods-bin_Tests/Pods-Pods-DWCocoapods-bin_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		896996909974F7F743D03BA734F184E9 /* KWBeKindOfClassMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWBeKindOfClassMatcher.m; path = Classes/Matchers/KWBeKindOfClassMatcher.m; sourceTree = "<group>"; };
 		8A55717C655FF37712E11905CBB9D7B5 /* KWIntercept.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWIntercept.m; path = Classes/Stubbing/KWIntercept.m; sourceTree = "<group>"; };
 		8B5F6037E0B69A5D75ABC6E68080DCC9 /* KWProbe.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWProbe.h; path = Classes/Core/KWProbe.h; sourceTree = "<group>"; };
@@ -413,7 +424,9 @@
 		9388F5D2CC6BDF0984FA55ECCC223A10 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
 		9417E545A839EDED49AA267D883027D4 /* KWStringContainsMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWStringContainsMatcher.m; path = Classes/Matchers/KWStringContainsMatcher.m; sourceTree = "<group>"; };
 		949DC0F46DB93E0C0B55CDAA95C01F9B /* KWBeSubclassOfClassMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWBeSubclassOfClassMatcher.m; path = Classes/Matchers/KWBeSubclassOfClassMatcher.m; sourceTree = "<group>"; };
+		958E00B527C9B3FDFC779988 /* Pods_Kiwi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Kiwi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		966103CCE9B87E706FEC71A36A306BE1 /* DWCocoapods-bin.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "DWCocoapods-bin.xcconfig"; sourceTree = "<group>"; };
+		968EED9EE615AB82D5BB12FF /* Pods_DWCocoapods_bin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DWCocoapods_bin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		96EFF5191432CAFEDF4845BCAC312C5A /* KWSpec.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWSpec.h; path = Classes/Core/KWSpec.h; sourceTree = "<group>"; };
 		97CB95DCF16C1C9B34AF122F1E10F964 /* KWRegisterMatchersNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWRegisterMatchersNode.h; path = Classes/Nodes/KWRegisterMatchersNode.h; sourceTree = "<group>"; };
 		993613462F6534D5380502CBB296902C /* Pods-DWCocoapods-bin_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DWCocoapods-bin_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -423,6 +436,7 @@
 		9BC8A410B2D242034CFFE7FD69B9F902 /* NSMethodSignature+KiwiAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSMethodSignature+KiwiAdditions.m"; path = "Classes/Core/NSMethodSignature+KiwiAdditions.m"; sourceTree = "<group>"; };
 		9BFD2DE7526ACD4B0C02C6DC59306697 /* Pods-DWCocoapods-bin_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DWCocoapods-bin_Example-frameworks.sh"; sourceTree = "<group>"; };
 		9D74F835103BEFA9910F09843DBF5EEF /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
+		9D7828888CED9DC17E802573 /* Pods-Pods-DWCocoapods-bin_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pods-DWCocoapods-bin_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Pods-DWCocoapods-bin_Example/Pods-Pods-DWCocoapods-bin_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9EE89394C5FB72264D71F8A5369316A3 /* KWMatcherFactory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWMatcherFactory.h; path = Classes/Core/KWMatcherFactory.h; sourceTree = "<group>"; };
 		9FA33FED0A370B9666BD8D3311727E39 /* KWVerifying.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWVerifying.h; path = Classes/Verifiers/KWVerifying.h; sourceTree = "<group>"; };
@@ -430,6 +444,7 @@
 		A2DB30E7E7A175302F923DB016DB12C6 /* KWAfterEachNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWAfterEachNode.h; path = Classes/Nodes/KWAfterEachNode.h; sourceTree = "<group>"; };
 		A353F4009D108FAEC553777F65FAADF2 /* KWMessagePattern.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWMessagePattern.h; path = Classes/Core/KWMessagePattern.h; sourceTree = "<group>"; };
 		A3EDC6B608AE85BA21C44B251D68A88F /* KWChangeMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWChangeMatcher.h; path = Classes/Matchers/KWChangeMatcher.h; sourceTree = "<group>"; };
+		A480670755473991DB89F7DA /* Pods-Kiwi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kiwi.release.xcconfig"; path = "Pods/Target Support Files/Pods-Kiwi/Pods-Kiwi.release.xcconfig"; sourceTree = "<group>"; };
 		A4C754CE0414D37E2202171B1DB8F64A /* KWCaptureSpy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWCaptureSpy.h; path = Classes/Core/KWCaptureSpy.h; sourceTree = "<group>"; };
 		A75F33C46C2EA2A5CC9BBA69CA8D96C7 /* KWStringPrefixMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWStringPrefixMatcher.m; path = Classes/Matchers/KWStringPrefixMatcher.m; sourceTree = "<group>"; };
 		AA9C2EB907EF949A1B252DA1A6FBE87E /* KWMessagePattern.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWMessagePattern.m; path = Classes/Core/KWMessagePattern.m; sourceTree = "<group>"; };
@@ -457,8 +472,10 @@
 		BB7734196704A3E2823F6551C892CF04 /* NSNumber+KiwiAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSNumber+KiwiAdditions.m"; path = "Classes/Core/NSNumber+KiwiAdditions.m"; sourceTree = "<group>"; };
 		BC0EA2E8872C8A06A029EE6D8F480C09 /* Pods-DWCocoapods-bin_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DWCocoapods-bin_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BE0A7011B4C4FEB932DF9DC1CF5C166E /* DWCocoapods-bin-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DWCocoapods-bin-Info.plist"; sourceTree = "<group>"; };
+		BF551E24D537D978DC43AF25 /* Pods-Kiwi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kiwi.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Kiwi/Pods-Kiwi.debug.xcconfig"; sourceTree = "<group>"; };
 		BF9653A8965D348ED67E548617FD1F6E /* KWProbePoller.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWProbePoller.h; path = Classes/Core/KWProbePoller.h; sourceTree = "<group>"; };
 		BFEBB9C931D850688E55564D5CC6CCA8 /* Kiwi-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Kiwi-Info.plist"; sourceTree = "<group>"; };
+		C0D811D1652BA08CDCBC9595 /* Pods-Pods-DWCocoapods-bin_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pods-DWCocoapods-bin_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-Pods-DWCocoapods-bin_Example/Pods-Pods-DWCocoapods-bin_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C390BB20A5F47F051B2B117C7F0E0B24 /* KWMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWMatcher.m; path = Classes/Core/KWMatcher.m; sourceTree = "<group>"; };
 		C3FAC6F06B2FE70980CA83657DD3801D /* KWAfterEachNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWAfterEachNode.m; path = Classes/Nodes/KWAfterEachNode.m; sourceTree = "<group>"; };
 		C422E709F63802187FF9C0E2A7D84D33 /* KWBeTrueMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWBeTrueMatcher.h; path = Classes/Matchers/KWBeTrueMatcher.h; sourceTree = "<group>"; };
@@ -470,6 +487,7 @@
 		C9DECDE78D695B60E069EDE3DD301B97 /* KWContainMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWContainMatcher.h; path = Classes/Matchers/KWContainMatcher.h; sourceTree = "<group>"; };
 		CA2364B00D28AFEEA19938C02675F7E5 /* KWDeviceInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWDeviceInfo.m; path = Classes/Core/KWDeviceInfo.m; sourceTree = "<group>"; };
 		CAA8E7925B52CE72EF2286CCEC8782B4 /* KWUserDefinedMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWUserDefinedMatcher.h; path = Classes/Matchers/KWUserDefinedMatcher.h; sourceTree = "<group>"; };
+		CBD01C73943AD4C7DFC102DF /* Pods_Pods_DWCocoapods_bin_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pods_DWCocoapods_bin_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC75D4C8B56CE357E2BBC00EA14D9242 /* NSValue+KiwiAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSValue+KiwiAdditions.h"; path = "Classes/Core/NSValue+KiwiAdditions.h"; sourceTree = "<group>"; };
 		CD2B7F0FABD4992B7F3590EB1D366915 /* Pods-DWCocoapods-bin_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DWCocoapods-bin_Example.modulemap"; sourceTree = "<group>"; };
 		CE3D98CE95008EAD6AA7555C1DD0B0C9 /* KWSymbolicator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWSymbolicator.h; path = Classes/Core/KWSymbolicator.h; sourceTree = "<group>"; };
@@ -480,6 +498,7 @@
 		D5130349A45B851F32213B6356FE059C /* KWItNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWItNode.m; path = Classes/Nodes/KWItNode.m; sourceTree = "<group>"; };
 		D514FF1A2F5C61A0E1AC879D6D9E6BA9 /* KWNull.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWNull.h; path = Classes/Core/KWNull.h; sourceTree = "<group>"; };
 		D546A2E4EB212A944C612DB47494FB47 /* KWExampleSuiteBuilder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWExampleSuiteBuilder.m; path = Classes/Core/KWExampleSuiteBuilder.m; sourceTree = "<group>"; };
+		D60098A715290F6CAD2671CB /* Pods-Pods-DWCocoapods-bin_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pods-DWCocoapods-bin_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Pods-DWCocoapods-bin_Tests/Pods-Pods-DWCocoapods-bin_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D654DC1E475934D5F5B3B8CB471F0524 /* KWBlockRaiseMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWBlockRaiseMatcher.m; path = Classes/Matchers/KWBlockRaiseMatcher.m; sourceTree = "<group>"; };
 		D68B16EC330B226C3E9815AF8BA6106B /* KWReceiveMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWReceiveMatcher.m; path = Classes/Matchers/KWReceiveMatcher.m; sourceTree = "<group>"; };
 		D69E92A740DBAC31BFA7A7D884E5FA7D /* KWLetNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWLetNode.h; path = Classes/Nodes/KWLetNode.h; sourceTree = "<group>"; };
@@ -495,6 +514,7 @@
 		E3C685694D9001C568DC253DB8D46F7A /* KWMatchVerifier.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWMatchVerifier.m; path = Classes/Verifiers/KWMatchVerifier.m; sourceTree = "<group>"; };
 		E5E129ED522076241A5A1084DA9E265C /* NSProxy+KiwiVerifierAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSProxy+KiwiVerifierAdditions.h"; path = "Classes/Core/NSProxy+KiwiVerifierAdditions.h"; sourceTree = "<group>"; };
 		E67FCB6C72D81569B61328B67CD3EE1A /* KWMock.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWMock.h; path = Classes/Mocking/KWMock.h; sourceTree = "<group>"; };
+		E6CE4CE2D37D99CF6C086194 /* Pods-FBSnapshotTestCase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FBSnapshotTestCase.release.xcconfig"; path = "Pods/Target Support Files/Pods-FBSnapshotTestCase/Pods-FBSnapshotTestCase.release.xcconfig"; sourceTree = "<group>"; };
 		E86D9780B16C2F3A52C6A5C3599FBBBC /* KWMatchVerifier.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWMatchVerifier.h; path = Classes/Verifiers/KWMatchVerifier.h; sourceTree = "<group>"; };
 		EB1DDEE22CEAEE950A97FE08A8233D61 /* KWContainMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWContainMatcher.m; path = Classes/Matchers/KWContainMatcher.m; sourceTree = "<group>"; };
 		ECF3BE3C0C20E65FFD9DECEF2237751D /* DWCocoapods-bin-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DWCocoapods-bin-prefix.pch"; sourceTree = "<group>"; };
@@ -518,6 +538,7 @@
 			files = (
 				AA0DF01B22CEACBD46769152D74175AD /* Foundation.framework in Frameworks */,
 				1FC5E60021D517AA18D48EA60DC28496 /* XCTest.framework in Frameworks */,
+				7F958453B9F47D5F4A9A8C7D /* Pods_Kiwi.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -526,6 +547,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B5D405FC9E6958CD6E185A7D67C96D0 /* Foundation.framework in Frameworks */,
+				7B6B09CD24317C2E5AF84766 /* Pods_DWCocoapods_bin.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -534,6 +556,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A96D5C266353B81E86EA09C7F889BDA /* Foundation.framework in Frameworks */,
+				4D23D9027A35DE4DF611E678 /* Pods_Pods_DWCocoapods_bin_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -542,6 +565,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E37C1A6B4565722D3323E44BBA15EED /* Foundation.framework in Frameworks */,
+				B807196913AC6495C2519785 /* Pods_Pods_DWCocoapods_bin_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -553,6 +577,7 @@
 				14C511527597E5846AB2627F791C7D8E /* QuartzCore.framework in Frameworks */,
 				E0B8D095C732352C854D365B9E5B993D /* UIKit.framework in Frameworks */,
 				6AE239C5D116E1C06F5705699FB9EAF0 /* XCTest.framework in Frameworks */,
+				642E945BDE4F7619C005BE65 /* Pods_FBSnapshotTestCase.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -846,6 +871,11 @@
 			isa = PBXGroup;
 			children = (
 				7DE5752EED0A4C4A430975244947611A /* iOS */,
+				968EED9EE615AB82D5BB12FF /* Pods_DWCocoapods_bin.framework */,
+				82CD7C50650291A4874B2677 /* Pods_FBSnapshotTestCase.framework */,
+				958E00B527C9B3FDFC779988 /* Pods_Kiwi.framework */,
+				CBD01C73943AD4C7DFC102DF /* Pods_Pods_DWCocoapods_bin_Example.framework */,
+				54035074F6BED0F87AAE6400 /* Pods_Pods_DWCocoapods_bin_Tests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -933,6 +963,16 @@
 			children = (
 				4357B8DBA247ECCC71C5AE8FF04264E6 /* FBSnapshotTestCase */,
 				B93060D53A3BF3383B7D1A711790AA72 /* Kiwi */,
+				6887E8790E8D8A4A2BBEA644 /* Pods-DWCocoapods-bin.debug.xcconfig */,
+				41801D62CE2A3D3B770FECF4 /* Pods-DWCocoapods-bin.release.xcconfig */,
+				59F190BE0D06E4D01DB3FF3E /* Pods-FBSnapshotTestCase.debug.xcconfig */,
+				E6CE4CE2D37D99CF6C086194 /* Pods-FBSnapshotTestCase.release.xcconfig */,
+				BF551E24D537D978DC43AF25 /* Pods-Kiwi.debug.xcconfig */,
+				A480670755473991DB89F7DA /* Pods-Kiwi.release.xcconfig */,
+				9D7828888CED9DC17E802573 /* Pods-Pods-DWCocoapods-bin_Example.debug.xcconfig */,
+				C0D811D1652BA08CDCBC9595 /* Pods-Pods-DWCocoapods-bin_Example.release.xcconfig */,
+				88B7C6AFC7749236EC1C3230 /* Pods-Pods-DWCocoapods-bin_Tests.debug.xcconfig */,
+				D60098A715290F6CAD2671CB /* Pods-Pods-DWCocoapods-bin_Tests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -1114,6 +1154,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 02FB636A565514FF8196554A1E6EE45A /* Build configuration list for PBXNativeTarget "Pods-DWCocoapods-bin_Tests" */;
 			buildPhases = (
+				B15D99FFF11A7B154AE393E1 /* [CP] Check Pods Manifest.lock */,
 				2B1236FD1C1B07B5554BCF0EA4D192BC /* Headers */,
 				02D32DE8729122513B206F16CD6A9387 /* Sources */,
 				98CE5D95060DAC38D2D7D9EA033248BB /* Frameworks */,
@@ -1135,6 +1176,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = AEB5C0E465AB227B0BBB130C3CF279C5 /* Build configuration list for PBXNativeTarget "Pods-DWCocoapods-bin_Example" */;
 			buildPhases = (
+				0675689A009C348EFF54704F /* [CP] Check Pods Manifest.lock */,
 				DEBD3A5F21B188565431A8EC9524C104 /* Headers */,
 				6AA804D2D0A49F65FE7C013D4C55BE03 /* Sources */,
 				C5F73E154B38FEFCB745EFA4BB72661F /* Frameworks */,
@@ -1154,6 +1196,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A38070E189561F257BBD5A0A55CACCCF /* Build configuration list for PBXNativeTarget "FBSnapshotTestCase" */;
 			buildPhases = (
+				67791721B2B0FA025256E1EF /* [CP] Check Pods Manifest.lock */,
 				384DE8A8021C5DA5E256BCFEC3D478A9 /* Headers */,
 				A48201AC594B2E6B09C0EE0396BC1377 /* Sources */,
 				E581515110D66F94F80A6937831489A1 /* Frameworks */,
@@ -1172,6 +1215,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D199D06A71607352BB7F4D0A6CDADC67 /* Build configuration list for PBXNativeTarget "Kiwi" */;
 			buildPhases = (
+				F98976B9135F1B10703E9F29 /* [CP] Check Pods Manifest.lock */,
 				E42C474757774A47AFFF3C741AEF3306 /* Headers */,
 				056B061276F4BCFFC0DC8BE3DB8691DD /* Sources */,
 				03033A78AECFE659D1D384935BF11834 /* Frameworks */,
@@ -1190,6 +1234,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 54955EAB7B78AC7745838F1E70B1F0D9 /* Build configuration list for PBXNativeTarget "DWCocoapods-bin" */;
 			buildPhases = (
+				D8E3F2E645089FDF9D8BC3CF /* [CP] Check Pods Manifest.lock */,
 				499BEC53EE296804E6A233DCBA55300B /* Headers */,
 				82B165463943C76A0F22FFC55799FD87 /* Sources */,
 				420EA595B543B284F23D5E9B925489BB /* Frameworks */,
@@ -1213,7 +1258,7 @@
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 			};
-			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "_Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -1272,6 +1317,119 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0675689A009C348EFF54704F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Pods-DWCocoapods-bin_Example-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		67791721B2B0FA025256E1EF /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FBSnapshotTestCase-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B15D99FFF11A7B154AE393E1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Pods-DWCocoapods-bin_Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D8E3F2E645089FDF9D8BC3CF /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-DWCocoapods-bin-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F98976B9135F1B10703E9F29 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Kiwi-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		02D32DE8729122513B206F16CD6A9387 /* Sources */ = {
@@ -1897,7 +2055,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "_Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7EF7227D9B20A1D549000096ACCB23D7 /* Debug */,
